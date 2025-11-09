@@ -10,4 +10,10 @@ public class ClassA {
  public void a3() {
 	 System.out.println("hello world");
  }
+ public void India() {
+	 System.out.println("this is India");
+ }
+ public void Delhi() {
+	 System.out.println("Delhi");
+ }
 }
