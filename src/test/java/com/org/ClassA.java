@@ -10,10 +10,16 @@ public class ClassA {
  public void a3() {
 	 System.out.println("hello world");
  }
+ public void TamilNadu() {
+	 System.out.println("TamilNadu");
+ }
+ public void Chennai() {
+	 System.out.println("Chennai");
+ }
  public void India() {
 	 System.out.println("this is India");
  }
  public void Delhi() {
 	 System.out.println("Delhi");
- }
+}
 }
